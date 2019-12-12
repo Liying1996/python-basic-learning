@@ -142,7 +142,7 @@ while True:
    [介绍2](https://foofish.net/python-decorator.html)
 8. 捕获异常
     try...except
-8. 命令行
+9. 命令行
     ```
     import argparse
     parser = argparse.ArgumentParser()
@@ -152,7 +152,7 @@ while True:
     ```
     ```
     # 1. 命令行， 必须参数 -n 名字; -a 年龄；返回xx今年xx岁；非必须参数 -s 身高 加一个xx高；
-# 2. 封装到函数里并调用
+###### 封装到函数里并调用
 ```
 import argparse
 parser = argparse.ArgumentParser()
