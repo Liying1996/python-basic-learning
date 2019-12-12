@@ -275,14 +275,14 @@ with open('test2.txt', 'w') as f:
     ```
     # 查看当前目录的绝对路径:
     os.path.abspath('.')
-    '/Users/michael'
+    '/Users/xxx'
     # 在某个目录下创建一个新目录，首先把新目录的完整路径表示出来:
-    os.path.join('/Users/michael', 'testdir')
-    '/Users/michael/testdir'
+    os.path.join('/Users/xxx/', 'testdir')
+    '/Users/xxx/testdir'
     # 创建一个目录:
-    os.mkdir('/Users/michael/testdir')
+    os.mkdir('/Users/xxx/testdir')
     # 删掉一个目录:
-    os.rmdir('/Users/michael/testdir')
+    os.rmdir('/Users/xxx/testdir')
     ```
 ---
 ### ***进程 & 线程***
