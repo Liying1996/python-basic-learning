@@ -226,7 +226,7 @@ class Person:
     def get_info(self):
         return "{} is {} years old. ".format(self.name, self.age)
 
-p = Person('zhanghongjie', '24')
+p = Person('gouzi', '24')
 p.get_info()
 ```
 
