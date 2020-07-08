@@ -317,7 +317,7 @@ findall #返回所有匹配正确的
 2. numpy
 3. array
 4. matplotlib
-5. seaborn</br>
+5. seaborn
 6.[scikit-learn](https://scikit-learn.org/stable/) 
 
 ---
